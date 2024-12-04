@@ -27,3 +27,5 @@ Meteoritos: con la nave espacial, moviendola de lado a lado con las flechas, deb
 Laberinto: el personaje se mueve con las flechas por la pantalla, esquivando los cuadrados para llegar a la estrella, donde gana. Si toca un cuadrado pierde. (Intermedio)
 
 Platformer: el personaje debe ir saltando de plataforma en plataforma, evitando caer al vacío, si no pierde. (Intermedio)
+
+Pasajeros: el personaje, un auto, debe recoger a todos los pasajeros antes de que se acabe el tiempo. (Intermedio)
