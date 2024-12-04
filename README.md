@@ -16,4 +16,6 @@ Cargar un proyecto:
 - LOAD nombreProyecto
 
 ## Proyectos armados
-SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos
+SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos. (Básico)
+
+Estrellas: cuadrado que debe atrapar las estrellas amarillas y evitar las rojas, moviendose con las flechas. (Básico)
