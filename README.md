@@ -25,3 +25,5 @@ Penales: al apretar la tecla n, se lanza una pelota uqe se deberá embocar al ar
 Meteoritos: con la nave espacial, moviendola de lado a lado con las flechas, deben dispararle con la n a los meteoritos que caen por la pantalla para evitar perder. (Intermedio)
 
 Laberinto: el personaje se mueve con las flechas por la pantalla, esquivando los cuadrados para llegar a la estrella, donde gana. Si toca un cuadrado pierde. (Intermedio)
+
+Platformer: el personaje debe ir saltando de plataforma en plataforma, evitando caer al vacío, si no pierde. (Intermedio)
