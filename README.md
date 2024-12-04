@@ -21,3 +21,5 @@ SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos. (B
 Estrellas: cuadrado que debe atrapar las estrellas amarillas y evitar las rojas, moviendose con las flechas. (Básico)
 
 Penales: al apretar la tecla n, se lanza una pelota uqe se deberá embocar al arco. Hay 5 intentos. (Básico)
+
+Meteoritos: con la nave espacial, moviendola de lado a lado con las flechas, deben dispararle con la n a los meteoritos que caen por la pantalla para evitar perder. (Intermedio)
