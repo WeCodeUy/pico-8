@@ -14,3 +14,6 @@ Guardar un proyecto:
 Cargar un proyecto:
 - Arrastrar archivo a la pantalla
 - LOAD nombreProyecto
+
+## Proyectos armados
+SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos
