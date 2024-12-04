@@ -19,3 +19,5 @@ Cargar un proyecto:
 SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos. (Básico)
 
 Estrellas: cuadrado que debe atrapar las estrellas amarillas y evitar las rojas, moviendose con las flechas. (Básico)
+
+Penales: al apretar la tecla n, se lanza una pelota uqe se deberá embocar al arco. Hay 5 intentos. (Básico)
