@@ -15,6 +15,26 @@ Cargar un proyecto:
 - Arrastrar archivo a la pantalla
 - LOAD nombreProyecto
 
+## Funciones predeterminadas del editor
+
+### _init()
+
+Esta función se ejecuta una sola vez al inicio del juego y se usa para inicializar variables, configurar el estado inicial y preparar el entorno.
+
+### _update()
+
+Se ejecuta 30 veces por segundo (por defecto) y maneja toda la lógica del juego. Ejemplo: 
+- Movimiento de objetos.
+- Control del jugador.
+- Detección de colisiones.
+- Cambios en el estado del juego.
+
+### _draw() 
+
+Se ejecuta 30 veces por segundo (después de _update) y se encarga de dibujar en la pantalla. Ejemplo:
+- Dibuja sprites, formas, texto, y otros gráficos.
+- Refleja el estado actual del juego.
+
 ## Proyectos armados
 SquareRun: cuadrado que debe saltar (con la tecla n) para evitar obstáculos. (Básico)
 
